@@ -1,0 +1,2 @@
+Prefix plugins/FindAllMarkers/example/
+Plugin FindAllMarkers inputfile UWOT.rds outputfile Markers.rds
